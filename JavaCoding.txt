@@ -6,4 +6,8 @@ Junit
 
 Testng 
 
-Api RestAssured
+Jenkins
+
+Git
+
+Appium
