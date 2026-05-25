@@ -42,9 +42,7 @@ public class ControlStatements {
 			System.out.println("Internet Explorer driver launched scuccessfully");
 			break;
 
-		default:
-			System.out.println("Browser Lauched Failed");
-			break;
+		
 		}
 
 	}
