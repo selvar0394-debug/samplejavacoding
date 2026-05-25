@@ -41,7 +41,12 @@ public class ControlStatements {
 		case "IE":
 			System.out.println("Internet Explorer driver launched scuccessfully");
 			break;
-
+		case "Safari":
+			System.out.println("Safaru driver launched scuccessfully");
+			break;
+       case "default":
+			System.out.println("Default driver launched scuccessfully");
+			break;
 		
 		}
 
